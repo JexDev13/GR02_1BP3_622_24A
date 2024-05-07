@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1371873d-e884-49bd-bc4e-94cd938abe9e" name="Changes" comment="" />
+    <list default="true" id="1371873d-e884-49bd-bc4e-94cd938abe9e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../GR02_1BP3_622_24A/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GR02_1BP3_622_24A/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GR02_1BP3_622_24A/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GR02_1BP3_622_24A/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../GR02_1BP3_622_24A" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JexDev13"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JexDev13/GR02_1BP3_622_24A.git",
+    "accountId": "82d75c12-a579-4531-9fae-47c5b51d232a"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -28,6 +43,10 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Proyectos/Hotel",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -48,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715110381099</updated>
-      <workItem from="1715110382201" duration="3000" />
+      <workItem from="1715110382201" duration="772000" />
     </task>
     <servers />
   </component>
