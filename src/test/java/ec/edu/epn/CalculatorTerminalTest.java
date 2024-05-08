@@ -6,6 +6,7 @@ import static org.mockito.Mockito.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+import java.io.InputStream;
 import java.util.Scanner;
 
 public class CalculatorTerminalTest {
@@ -26,7 +27,7 @@ public class CalculatorTerminalTest {
 
         // Reemplazar System.in con Scanner mock
         System.setIn(System.in);
-        System.setIn(new java.io.InputStream() {
+        System.setIn(new InputStream() {
             public int read() {
                 return scannerMock.nextInt();
             }
@@ -49,7 +50,7 @@ public class CalculatorTerminalTest {
         when(scannerMock.nextInt()).thenReturn(8).thenReturn(4);
 
         System.setIn(System.in);
-        System.setIn(new java.io.InputStream() {
+        System.setIn(new InputStream() {
             public int read() {
                 return scannerMock.nextInt();
             }
@@ -69,7 +70,7 @@ public class CalculatorTerminalTest {
         when(scannerMock.nextInt()).thenReturn(7).thenReturn(5);
 
         System.setIn(System.in);
-        System.setIn(new java.io.InputStream() {
+        System.setIn(new InputStream() {
             public int read() {
                 return scannerMock.nextInt();
             }
@@ -89,7 +90,7 @@ public class CalculatorTerminalTest {
         when(scannerMock.nextInt()).thenReturn(9).thenReturn(3);
 
         System.setIn(System.in);
-        System.setIn(new java.io.InputStream() {
+        System.setIn(new InputStream() {
             public int read() {
                 return scannerMock.nextInt();
             }

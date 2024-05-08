@@ -9,8 +9,18 @@ public class CalculatorExecute {
         int addition = calculator.sum(4,4);
         System.out.println("Addition: " + addition);
 
+        System.out.println("AQUI OCURRE UN CAMBIO");
+
         int sus = calculator.subtract(8,3);
         System.out.println("Subtraction: " + sus);
+
+        int mult = calculator.multiply(4,4);
+        System.out.println("Multiplication: " + mult);
+
+        double div = calculator.divide(9,3);
+        System.out.println("Division: " + div);
+
+        System.out.println("AQUI TERMINA EL CAMBIO");
         /*Scanner scanner = new Scanner(System.in);
 
         boolean continuar = true;
