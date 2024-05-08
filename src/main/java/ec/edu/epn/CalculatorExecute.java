@@ -2,10 +2,17 @@ package ec.edu.epn;
 
 import java.util.Scanner;
 
-public class Main {
+public class CalculatorExecute {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
         Calculator calculator = new Calculator();
+        System.out.println("Calculator Execute");
+        int addition = calculator.sum(4,4);
+        System.out.println("Addition: " + addition);
+
+        int sus = calculator.subtract(8,3);
+        System.out.println("Subtraction: " + sus);
+        /*Scanner scanner = new Scanner(System.in);
+
         boolean continuar = true;
 
         while (continuar) {
@@ -66,6 +73,6 @@ public class Main {
             }
         }
 
-        scanner.close();
+        scanner.close();*/
     }
 }
