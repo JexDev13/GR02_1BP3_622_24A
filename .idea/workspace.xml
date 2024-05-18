@@ -12,26 +12,6 @@
     <list default="true" id="1371873d-e884-49bd-bc4e-94cd938abe9e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/epn/CalculatorExecute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/CalculatorExecute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/GR02_1BP3_622_24A.-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ec/edu/epn/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ec/edu/epn/CalculatorExecute.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2024-05-08T00-17-47_141.dumpstream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2024-05-08T00-18-11_073.dumpstream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.CalculatorTerminalTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.CalculatorTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.CalculatorTerminalTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.CalculatorTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ec/edu/epn/CalculatorTerminalTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ec/edu/epn/CalculatorTerminalTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ec/edu/epn/CalculatorTerminalTest$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ec/edu/epn/CalculatorTerminalTest$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ec/edu/epn/CalculatorTerminalTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ec/edu/epn/CalculatorTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +86,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -217,7 +197,7 @@
       <workItem from="1715128225708" duration="855000" />
       <workItem from="1715130267812" duration="3289000" />
       <workItem from="1715791122290" duration="51000" />
-      <workItem from="1716011143702" duration="498000" />
+      <workItem from="1716011143702" duration="2672000" />
     </task>
     <servers />
   </component>
