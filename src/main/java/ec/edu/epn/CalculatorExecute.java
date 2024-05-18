@@ -21,6 +21,8 @@ public class CalculatorExecute {
         System.out.println("Division: " + div);
 
         System.out.println("AQUI TERMINA EL CAMBIO");
+
+        System.out.println("ESTE ES UN CAMBIO EL 18-05-2024 - MANUAL");
         /*Scanner scanner = new Scanner(System.in);
 
         boolean continuar = true;
