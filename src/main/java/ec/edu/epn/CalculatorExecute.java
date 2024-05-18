@@ -27,6 +27,7 @@ public class CalculatorExecute {
         System.out.println("ESTE ES UN CAMBIO 3 EL 19-05-2024 - MANUAL");
         System.out.println("ESTE ES UN CAMBIO 4 EL 19-05-2024 - MANUAL");
         System.out.println("ESTE ES UN CAMBIO 5 EL 19-05-2024 - MANUAL");
+        System.out.println("ESTE ES UN CAMBIO 6 EL 19-05-2024 - MANUAL");
 
 
 
