@@ -59,37 +59,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CalculatorExecute.executor": "Run",
-    "Application.Main.executor": "Run",
-    "JUnit.CalculatorTerminalTest.executor": "Run",
-    "JUnit.CalculatorTerminalTest.testDivideByZeroFromTerminal.executor": "Run",
-    "JUnit.CalculatorTerminalTest.testDivideFromTerminal.executor": "Run",
-    "JUnit.CalculatorTerminalTest.testMultiplyFromTerminal.executor": "Run",
-    "JUnit.CalculatorTerminalTest.testSubtractFromTerminal.executor": "Run",
-    "JUnit.CalculatorTest.executor": "Run",
-    "JUnit.CalculatorTest.testSubtract.executor": "Run",
-    "Maven.GR02_1BP3_622_24A. [clean].executor": "Run",
-    "Maven.GR02_1BP3_622_24A. [package].executor": "Run",
-    "Maven.GR02_1BP3_622_24A. [test].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Jenkins´sBranch",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Proyectos/Hotel_reservas_Demo",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CalculatorExecute.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTerminalTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTerminalTest.testDivideByZeroFromTerminal.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTerminalTest.testDivideFromTerminal.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTerminalTest.testMultiplyFromTerminal.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTerminalTest.testSubtractFromTerminal.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.testSubtract.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.GR02_1BP3_622_24A. [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.GR02_1BP3_622_24A. [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.GR02_1BP3_622_24A. [test].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Jenkins´sBranch&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Proyectos/Hotel_reservas_Demo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="ec.edu.epn" />
@@ -197,7 +197,7 @@
       <workItem from="1715128225708" duration="855000" />
       <workItem from="1715130267812" duration="3289000" />
       <workItem from="1715791122290" duration="51000" />
-      <workItem from="1716011143702" duration="6242000" />
+      <workItem from="1716011143702" duration="7318000" />
     </task>
     <servers />
   </component>
