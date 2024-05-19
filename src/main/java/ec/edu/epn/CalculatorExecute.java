@@ -33,7 +33,7 @@ public class CalculatorExecute {
         System.out.println("ESTE ES UN CAMBIO 9 EL 19-05-2024 - MANUAL");
         System.out.println("ESTE ES UN CAMBIO 10 EL 19-05-2024 - AUTOMATICO");
         System.out.println("ESTE ES UN CAMBIO 11 EL 19-05-2024 - AUTOMATICO");
-        System.out.println("PRUEBA FINAL");
+        System.out.println("PRUEBA FINAL 1");
 
 
         /*Scanner scanner = new Scanner(System.in);
